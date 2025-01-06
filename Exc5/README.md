@@ -14,6 +14,18 @@ query GetClientNameAndPassport($id: String!) {
 }
 ```
 
+Пример запроса client info:
+
+```graphql
+query GetClientData($id: String!) {
+    client(id: $id) {
+        id
+        name
+        age
+    }
+}
+```
+
 Пример запроса всех данных:
 
 ```graphql
