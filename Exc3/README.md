@@ -3,7 +3,7 @@
 
 ## Обновленная схема
 
-**[Event-Driven архитектура](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&nav=1&title=InsureTech_C4_%D1%81ontainer-diagram#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1adD5VAS4twn0U_1DFipJedGGhobReyVO%26export%3Ddownload)**
+**[Event-Driven.drawio](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&nav=1&title=InsureTech_C4_%D1%81ontainer-diagram#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1adD5VAS4twn0U_1DFipJedGGhobReyVO%26export%3Ddownload)**
 
 ## Проблемы и риски текущей архитектуры
 
